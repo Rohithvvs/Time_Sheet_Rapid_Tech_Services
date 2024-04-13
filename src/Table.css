@@ -1,0 +1,16 @@
+
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 2px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px 2px;
+  cursor: pointer;
+  border-radius: 30px;
+background-color:darkgoldenrod ;
+}
+
+
